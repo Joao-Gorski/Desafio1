@@ -1,0 +1,2 @@
+# Desafio1
+// Este código representa um teste elementar de lógica. Inicialmente, é definida a função "divisao", que cria a variável "soma" para armazenar a soma dos números divisíveis por 3 ou 5. Em seguida, é estabelecido um loop que itera de 1 até "numero - 1". Para executar o teste, utiliza-se o comando "console.log" chamando a função e fornecendo um número desejado, como 10, resultando em 23. O mesmo procedimento pode ser aplicado a outros valores, como 11, 13, 18, etc.
